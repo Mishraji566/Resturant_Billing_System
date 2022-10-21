@@ -17,7 +17,7 @@ Select the item from Menu :-
 
 ## STEP-3
 
-Select the Quntity of item :-
+Select the quantity of item :-
 
 ![](Screenshot/Billing%20Discription.JPG)
 
